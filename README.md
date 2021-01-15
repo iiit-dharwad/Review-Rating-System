@@ -6,15 +6,31 @@
 * Setup
 
 ## General info
-This project is simple rating and review system for giving feeedback,rating of daily food to the College Mess,Notifying Shops for particular product Demand.
+This project is simple rating and review system for giving feeedback,rating of daily food to the College Mess,Notifying Shops for particular product demand.
 	
 ## Technologies
 Project is created with:
-*HTML\
-*CSS\
-*Javascript\
-*NodeJs\
-*MongoDB\
+* HTML \
+* CSS \
+* Javascript \
+* NodeJS \
+* MongoDB \
+
+## Git Basics
+* git init to initialize local git repository. \
+* git add . (command add all the file present in the working directory.) \
+* git add (README.md  To add a specific file.) \
+* git status  (Lists all new or modified files to be committed.) \
+* git commit -m "First commit" (The message in the " " is given so that the other users can read the message and see what changes you made.) \
+* git reset HEAD~1  (Remove the most recent commit# Commit again!) \
+* git remote add origin remote_repository_URL. (sets the new remote.) \
+* git remote -v  (List the remote connections you have to other repositories.) \
+* git push -u origin master (pushes changes from local repository to remote repository.) \
+* git clone remote_repository_URL (cloning any repository in local directory.) \
+
+
+
+*git commit
 
 ## Setup
 To run this project, install it locally using npm:
